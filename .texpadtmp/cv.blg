@@ -1,0 +1,9 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is '/Users/blessed/Desktop/Fancy CV/.texpadtmp/cv.blg'
+[54] biber-darwin:276> INFO - === Thu Sep 24, 2015, 22:51:44
+[54] Biber.pm:333> INFO - Reading '/Users/blessed/Desktop/Fancy CV/.texpadtmp/cv.bcf'
+[173] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[173] Utils.pm:146> WARN - The file '/Users/blessed/Desktop/Fancy CV/.texpadtmp/cv.bcf' does not contain any citations!
+[201] bbl.pm:505> INFO - Writing '/Users/blessed/Desktop/Fancy CV/.texpadtmp/cv.bbl' with encoding 'UTF-8'
+[202] bbl.pm:596> INFO - Output to /Users/blessed/Desktop/Fancy CV/.texpadtmp/cv.bbl
+[202] Biber.pm:106> INFO - WARNINGS: 1
